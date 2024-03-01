@@ -1,0 +1,71 @@
+[33mcommit 615243931f851c5bc53b52d0f7cb3ae96cbf4501[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Josmattheus <117425513+Josmattheus@users.noreply.github.com>
+Date:   Thu Feb 29 21:04:30 2024 -0500
+
+    crea el index.html
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..715107b[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,11 @@[m
+[32m+[m[32m<!DOCTYPE html>[m[41m[m
+[32m+[m[32m<html lang="es">[m[41m[m
+[32m+[m[32m<head>[m[41m[m
+[32m+[m[32m    <meta charset="UTF-8">[m[41m[m
+[32m+[m[32m    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m[41m[m
+[32m+[m[32m    <title>Sistema de registro de juegos</title>[m[41m[m
+[32m+[m[32m</head>[m[41m[m
+[32m+[m[32m<body>[m[41m[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m[41m[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m
+
+[33mcommit 0d95a27f3dd3e4d394ac274e4fa25d8a37ef1344[m
+Author: Josmattheus <117425513+Josmattheus@users.noreply.github.com>
+Date:   Thu Feb 29 20:58:44 2024 -0500
+
+    Update README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 0c07bba..c278985 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,5 @@[m
+ <h1> Sistema de registro <h1>[m
+[31m--- Estado del projecto: En cosntruccion --[m
+[32m+[m[32m-- Estado del projecto: En construccion --[m
+[32m+[m
+[32m+[m[32mPara ejecutar el sistema, debes poner:[m
+[32m+[m[32m```npm install react```[m
+
+[33mcommit b29c5d0b4d94eb0509fad0153ed0114498bffffb[m
+Author: Josmattheus <117425513+Josmattheus@users.noreply.github.com>
+Date:   Thu Feb 29 20:57:22 2024 -0500
+
+    Create app.js
+
+[1mdiff --git a/app.js b/app.js[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4cdc554[m
+[1m--- /dev/null[m
+[1m+++ b/app.js[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mconsole.log("Ejecutando el sistema")[m
+
+[33mcommit fdcaf47245a4d81f9e93ebef83ce14bd67928860[m
+Author: Josmattheus <117425513+Josmattheus@users.noreply.github.com>
+Date:   Thu Feb 29 20:26:21 2024 -0500
+
+    Create README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0c07bba[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m<h1> Sistema de registro <h1>[m
+[32m+[m[32m-- Estado del projecto: En cosntruccion --[m
